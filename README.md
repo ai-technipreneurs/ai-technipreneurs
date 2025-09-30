@@ -25,7 +25,7 @@ Nous sommes une initiative dédiée à la **conception et au développement de s
 - Partenariats autour de solutions numériques pour les entreprises et la recherche.  
 
 ## 📫 Contact
-- **Email** : ai.technipreneurs@gmail.com  
+- **Email** : contact@ai.technipreneurs.com  
 - 👉 **Rejoignez notre communauté sur Discord** :  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://discord.gg/K7gSEeHW)
 
@@ -58,7 +58,7 @@ We are an initiative dedicated to the **design and development of innovative dig
 - Partnerships around digital solutions for businesses and research.  
 
 ## 📫 How to reach us
-- **Email**: ai.technipreneurs@gmail.com  
+- **Email**: contact@ai.technipreneurs.com  
 - 👉 **Join our community on Discord**:  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://discord.gg/K7gSEeHW)
 
