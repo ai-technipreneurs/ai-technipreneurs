@@ -29,6 +29,39 @@ Nous sommes une initiative dédiée à la **conception et au développement de s
 - 👉 **Rejoignez notre communauté sur Discord** :  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://discord.gg/K7gSEeHW)
 
+============================================================================================
+
+# 👋 Welcome to @ai-technipreneurs
+
+We are an initiative dedicated to the **design and development of innovative digital solutions** in Artificial Intelligence and web technologies.
+
+## 🚀 What we do
+- Software design, development, and IT studies.  
+- Creation and deployment of web and mobile applications.  
+- Website and intranet development.  
+- Implementation of management applications to boost business performance.  
+- Big Data analysis and insights.  
+- Training young people in digital skills and supporting scientific research.  
+- Capacity building for company staff through specialized training.  
+- Consulting and advisory services in digital transformation.  
+
+## 👀 Our interests
+- Artificial Intelligence technologies.  
+- Programming tools for research, innovation, and business.  
+
+## 🌱 Currently
+- Exploring new programming tools.  
+- Developing practical training modules.  
+
+## 💞️ Looking to collaborate on
+- Training projects in programming and Artificial Intelligence.  
+- Partnerships around digital solutions for businesses and research.  
+
+## 📫 How to reach us
+- **Email**: ai.technipreneurs@gmail.com  
+- 👉 **Join our community on Discord**:  
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://discord.gg/K7gSEeHW)
+
 
 
 <!---
